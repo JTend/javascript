@@ -24,4 +24,4 @@ const myMath = {
    }
 }
 
-module.export = myMath; //jest
+module.exports = myMath; //jest
